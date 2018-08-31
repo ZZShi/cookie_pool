@@ -10,13 +10,16 @@
 # 网站名与网站账号
 WEBSITE = {'lagou', 'github'}
 ACCOUNTS = {
+    # 在此填入自己的账号
     'lagou': {
-        "15596626029": "szz839090",
-        "13265914509": "szz839090",
-        "18628449931": "szz839090"
+        "username1": "password1",
+        "username2": "password2",
+        "username3": "password3"
     },
     'github': {
-        'ZZShi': 'szz839090'
+        "username1": "password1",
+        "username2": "password2",
+        "username3": "password3"
     }
 }
 
